@@ -32,7 +32,7 @@ An Alert Source is <mark style="color:green;">active</mark> if there is a record
 
 **(1)** In the app, go to **Automations > Custom Action > Webhooks** to create the webhook
 
-![](../assets/sdpodstep1.png)
+![](assets/sdpodstep1.png)
 
 **(2)** Click on **New Webhook**
 
