@@ -16,7 +16,7 @@ Route detailed ticket alerts from ServiceDesk Plus On-Demand to the right users 
 
 ![](../../.gitbook/assets/Alert\_Sources.png)
 
-2. Select **ServiceDesk Plus On-Demand**. Copy the displayed **Webhook URL** to [configure](SDP-AS.md#in-servicedesk-plus-on-demand-create-a-squadcast-webhook-alert) it within **ServiceDesk Plus On-Demand.** Finish by clicking **Add Alert Source** -> **Done**.
+2. Select **ServiceDesk Plus On-Demand**. Copy the displayed **Webhook URL** to [configure](readme.md#in-servicedesk-plus-on-demand-create-a-squadcast-webhook-alert) it within **ServiceDesk Plus On-Demand.** Finish by clicking **Add Alert Source** -> **Done**.
 
 ![](../../.gitbook/assets/Freshdesk.png)
 
