@@ -36,7 +36,7 @@ An Alert Source is <mark style="color:green;">active</mark> if there is a record
 
 **(2)** Click on **New Webhook**
 
-![](../assets/sdpodstep2.png)
+![](assets/sdpodstep2.png)
 
 **(3)** Fill in the form as shown below:
 
@@ -64,7 +64,7 @@ An Alert Source is <mark style="color:green;">active</mark> if there is a record
 }
 ```
 
-![](../assets/sdpodstep3.png)
+![](assets/sdpodstep3.png)
 
 
 To enable automatic incident creation in Squadcast when tickets are generated in SDP, follow these steps:
@@ -72,15 +72,15 @@ To enable automatic incident creation in Squadcast when tickets are generated in
 * Navigate to **Automations > Triggers**.
 * Configure a `Trigger`, as illustrated in the screenshot below. You can include extra conditions as needed.
 
-![](../assets/sdpodstep4.png)
+![](assets/sdpodstep4.png)
 
 
-![](../assets/sdpodstep5.png)
+![](assets/sdpodstep5.png)
 
 **(4)** Similarly, create an another `Trigger` as given in the below screenshot to send **resolve alert** to Squadcast:
 
 
-![](../assets/sdpodstep6.png)
+![](assets/sdpodstep6.png)
 
 
 Find more details on Trigger creation [here](https://help.sdpondemand.com/triggers)
