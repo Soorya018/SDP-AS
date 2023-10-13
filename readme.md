@@ -67,7 +67,10 @@ An Alert Source is <mark style="color:green;">active</mark> if there is a record
 ![](../assets/sdpodstep3.png)
 
 
-For the webhook to be automatically invoked to create incidents in Squadcast whenever tickets are created in SDP, configure a `Trigger` as given in the below screenshot by navigating to **Automations > Triggers** (you can add additional conditions if required):
+To enable automatic incident creation in Squadcast when tickets are generated in SDP, follow these steps:
+
+* Navigate to **Automations > Triggers**.
+* Configure a `Trigger`, as illustrated in the screenshot below. You can include extra conditions as needed.
 
 ![](../assets/sdpodstep4.png)
 
